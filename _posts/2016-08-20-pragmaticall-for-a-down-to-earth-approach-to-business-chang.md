@@ -1,18 +1,17 @@
 ---
 description: 'PragmaticAll: for a down-to-earth approach to business change.'
-dateModified: '2016-08-20T10:16:23.464Z'
-datePublished: '2016-08-20T10:18:01.082Z'
+dateModified: '2016-08-20T10:18:24.226Z'
+datePublished: '2016-08-20T10:18:24.619Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-20-pragmaticall-for-a-down-to-earth-approach-to-business-chang.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: pragmaticall-for-a-down-to-earth-approach-to-business-chang/index.html
+_type: Blurb
 
 ---
 PragmaticAll: for a down-to-earth approach to business change.
