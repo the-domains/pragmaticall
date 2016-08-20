@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-08-20T12:11:41.021Z'
-datePublished: '2016-08-20T12:11:53.129Z'
+dateModified: '2016-08-20T12:13:56.857Z'
+datePublished: '2016-08-20T12:13:56.970Z'
 title: Relationships
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-20-relationships.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
