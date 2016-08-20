@@ -20,6 +20,9 @@ navigation:
   - name: About PragmaticAll
     id: 7c2248ec-9a95-4b7e-9f51-11a9f7d9bd68
     type: content
+  - name: Company info
+    id: 206c97a3-f022-469e-ba00-9a82d1f352cf
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e360e01-6c33-48c1-92b3-68daf2077cd1.ico
 title: No Nonsense Agile Analysis
