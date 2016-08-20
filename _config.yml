@@ -1,0 +1,14 @@
+layout_spectrum: 0.6574317244812846
+typography_spectrum: 0.5164885139092803
+color:
+  brandStrength: 0.3061078230384737
+  lightness: 0.2435079428832978
+  saturation: 0.3848201159853488
+  rhythmicContrast: 0.21655399911105633
+  brandColors:
+    - '#FFFFFF'
+    - '#0F8223'
+    - '#C3DFC8'
+    - '#020E04'
+    - '#929292'
+name: PragmaticAll
