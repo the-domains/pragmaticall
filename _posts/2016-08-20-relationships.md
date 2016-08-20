@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-20T12:15:39.401Z'
+datePublished: '2016-08-20T14:27:54.737Z'
 sourcePath: _posts/2016-08-20-relationships.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T12:15:39.006Z'
+dateModified: '2016-08-20T14:27:54.337Z'
 title: Relationships
 publisher: {}
 description: ''
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: relationships/index.html
+_type: Blurb
 
 ---
 Relationships
