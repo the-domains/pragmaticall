@@ -1,4 +1,3 @@
-layout_spectrum: 0.6574317244812846
 typography_spectrum: 0.5164885139092803
 color:
   brandStrength: 0.3061078230384737
@@ -6,9 +5,15 @@ color:
   saturation: 0.3848201159853488
   rhythmicContrast: 0.21655399911105633
   brandColors:
-    - '#FFFFFF'
-    - '#0F8223'
-    - '#C3DFC8'
-    - '#020E04'
-    - '#929292'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.6574317244812846
+author:
+  name: PragmaticAll
+  email: robert@pragmaticall.nl
+  url: www.pragmaticall.nl
 name: PragmaticAll
+title: No Nonsense Agile Analysis
