@@ -1,17 +1,16 @@
 ---
 description: 'PragmaticAll is registered in The Netherlands, KvK 55709060.'
-dateModified: '2016-08-20T10:32:18.336Z'
-datePublished: '2016-08-20T10:32:31.079Z'
+dateModified: '2016-08-20T10:32:56.038Z'
+datePublished: '2016-08-20T10:32:56.439Z'
 title: Company info
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-20-company-info.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: company-info/index.html
+_type: Blurb
 
 ---
 # Company info
